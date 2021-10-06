@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kfarrell/Documents/Programming/raylib/Test/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/my_project.dir/main.cpp.o -c /home/kfarrell/Documents/Programming/raylib/Test/main.cpp",
+  "file": "/home/kfarrell/Documents/Programming/raylib/Test/main.cpp"
+}
+]
